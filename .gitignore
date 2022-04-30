@@ -159,6 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-snake-ai/
-model/
 Space-Invaders/space-invader
+A-Path-Finding-Visualization/A-star-pathfinder
